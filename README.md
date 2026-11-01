@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3665-twisted-mirror-path-count](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
