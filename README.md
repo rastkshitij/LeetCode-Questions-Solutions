@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1882-process-tasks-using-servers](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
