@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1882-process-tasks-using-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3693-climbing-stairs-ii) |
