@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
