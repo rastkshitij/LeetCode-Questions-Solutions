@@ -45,9 +45,10 @@ var findKthLargest = function(nums, k) {
     let obj =  new minHeap()
     for(let i = 0 ; i < nums.length ; i++){
         obj.insertion(nums[i]);
-    }
-    while(obj.heap.length  !== k){
-        obj.deletion()
+
+        if(obj.heap.length > k) {
+            obj.deletion();
+        }
     }
     return obj.heap[0]
 };
