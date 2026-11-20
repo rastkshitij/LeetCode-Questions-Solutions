@@ -50,5 +50,5 @@ var findKthLargest = function(nums, k) {
             obj.deletion();
         }
     }
-    return obj.heap[0]
+    return obj.deletion()
 };
