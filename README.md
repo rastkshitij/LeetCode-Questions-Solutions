@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Trie
 |  |
 | ------- |
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
