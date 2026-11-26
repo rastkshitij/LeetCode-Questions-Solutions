@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/rastkshitij/LeetCode-Questions-Solutions/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
